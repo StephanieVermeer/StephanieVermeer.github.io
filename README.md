@@ -7,7 +7,9 @@
 <style>
 body }
 font-family:cursive;}
-#Amerika { font-family:Italic; }
+#amerika { font-family:Italic; }
+#EL { font-family:Italic; }
+#BA { font-family:Italic; }
 #VS {       background: rgb(230, 230, 230);
             width: 70%;
             height: 180px;
