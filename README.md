@@ -9,6 +9,11 @@ body{
 { font-family:cursive;}
 #Amerika { font-family:Italic; }
 #VS { background-color: rgb(200,55,0);}
+#amerika {  width: 120px;
+            margin-right: 10px;
+            margin-bottom: 10px;
+            border: 10px ridge red;
+ }
  .button {
   border-radius: 4px;
   background-color: #f4511e;
@@ -51,7 +56,7 @@ body{
 </head>
 <body>
 
-<img src="https://nl.wikipedia.org/wiki/Vlag_van_de_Verenigde_Staten";
+<img id "amerika" src= "https://nl.wikipedia.org/wiki/Vlag_van_de_Verenigde_Staten";
 <strong><h1>Amerika VS</h1></strong>
 <li><a href"Informatie"></a></li>
 <li><a href="Bekende attracties"></a></li>
