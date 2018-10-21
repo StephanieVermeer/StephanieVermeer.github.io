@@ -9,14 +9,14 @@
 { font-family:cursive;}
 #Amerika { font-family:Italic; }
 #VS { background-color: rgb(200,55,0);}
-#STAD { background-color: blue; }
+#STAD { background-color: rgb(210,10,0); }
 #FOTO {
             width: 120px;
             margin-right: 10px;
             margin-bottom: 10px;
             border: 6px ridge red;
 }
-.amerika { color: red; }
+.amerika { color: blue; }
 .vs { color: white; }
 .button {
   border-radius: 4px;
