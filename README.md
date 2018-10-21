@@ -128,11 +128,11 @@ body, html {
 De VS wordt in het noorden begrensd door Canada en<br> in het zuiden door Mexico. De westkust wordt gevormd door de<br> Grote of Stille Oceaan terwijl de Atlantische Oceaan ten oosten en de<br> Golf van Mexico ten zuiden van het land liggen.</p>
 <strong><h3 id="BA">Bekende attractie</h3></strong>
 <li>Grand Canyon</li>
-<img id="FT" src=https://www.taketours.com/images/destination/USA%20Grand%20Canyon%20South%20Rim.jpg>
+<img id="FT" src="https://www.taketours.com/images/destination/USA%20Grand%20Canyon%20South%20Rim.jpg">
 <li>Het vrijheidsbeeld</li>
-<img id="VH" src=https://www.newyork.nl/wp-content/uploads/2013/11/xHet-Vrijheidsbeeld.jpg.pagespeed.ic.rcDPXYNqWr.jpg>
+<img id="VH" src="https://www.newyork.nl/wp-content/uploads/2013/11/xHet-Vrijheidsbeeld.jpg.pagespeed.ic.rcDPXYNqWr.jpg">
 <li>Disneyland Park</li>
-<img id="DP" src=https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sleeping_Beauty_Castle_Disneyland_Anaheim_2013.jpg/1920px-Sleeping_Beauty_Castle_Disneyland_Anaheim_2013.jpg
+<img id="DP" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sleeping_Beauty_Castle_Disneyland_Anaheim_2013.jpg/1920px-Sleeping_Beauty_Castle_Disneyland_Anaheim_2013.jpg">
 <strong><h4 id="EL">Extra links</h4></strong> 
 </body>
 </html>
