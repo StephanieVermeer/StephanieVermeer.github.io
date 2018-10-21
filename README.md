@@ -79,7 +79,7 @@ body, html {
 
 .bg-image {
   /* The image used */
-  background-image: url("photographer.jpg");
+  background-image: url("zuidamerika-04.jpg");
   
   /* Add the blur effect */
   filter: blur(8px);
