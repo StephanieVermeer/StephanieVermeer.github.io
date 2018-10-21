@@ -6,14 +6,20 @@
 <meta charset="utf-8">
 <title>Mijn Droomreis</title>
 <style>
-body{
+
 { font-family:cursive;}
 #Amerika { font-family:Italic; }
 #VS { background-color: rgb(200,55,0);}
-#STAD { background-color: blue
+#STAD { background-color: blue }
+#FOTO {
+            width: 120px;
+            margin-right: 10px;
+            margin-bottom: 10px;
+            border: 6px ridge red;
+}
 .amerika { color: red }
 .vs { color: white }
- .button {
+.button {
   border-radius: 4px;
   background-color: #f4511e;
   border: none;
@@ -55,8 +61,8 @@ body{
 </head>
 <body>
 
-<img src= "https://nl.wikipedia.org/wiki/Vlag_van_de_Verenigde_Staten";
-<strong><h1 id="STAD"><span class= "amerika">Amerika</span><span class= "vs">VS</span></h1></strong>
+<img id="FOTO" src= "https://nl.wikipedia.org/wiki/Vlag_van_de_Verenigde_Staten">
+<h1 id="STAD"><span class= "amerika">Amerika</span> <span class= "vs">VS</span></h1>
 <li><a href"Informatie"></a></li>
 <li><a href="Bekende attracties"></a></li>
 <li>extra link</li>
