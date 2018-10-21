@@ -16,7 +16,7 @@
             margin-bottom: 10px;
             border: 6px ridge red;
 }
-.amerika { color: #3366ff; }
+.amerika { color: #6666ff; }
 .vs { color: white; }
 .button {
   border-radius: 4px;
@@ -60,16 +60,19 @@
 </head>
 <body>
 
-<img id="FOTO" src= "https://nl.wikipedia.org/wiki/Vlag_van_de_Verenigde_Staten">
+<img id="FOTO" src= "https://www.bol.com/nl/p/vlag-usa-amerikaanse-vlag-90-x-150/9200000055128768/">
 <h1 id="STAD"><span class= "amerika">Amerika</span> <span class= "vs">VS</span></h1>
-<li><a href"Informatie"></a></li>
-<li><a href="Bekende attracties"></a></li>
+<p>Amerika is de perfecte plaats om eens te bezoeken!</p>
+<li><a href="#Informatie"></a></li>
+<li><a href="#Bekende attracties"></a></li>
 <li>extra link</li>
 
-<p>Amerika is de perfecte plaats om eens te bezoeken!</p>
+
 <strong><h2>Informatie</h2></strong>
 <p id="VS"De Verenigde Staten, officieel de Verenigde Staten van Amerika, afgekort VS zijn een<br> federatie van 50 staten en het District of Columbia, grotendeels in<br>Noord-Amerika gelegen. De Verenigde Staten zijn met meer dan 325 miljoen<br> inwoners het op twee na grootste land ter wereld in bevolking,<br>na Volksrepubliek China en India. Tevens is het het op twee na<br> grootste land in oppervlakte, na Rusland en Canada.<br>
 De VS wordt in het noorden begrensd door Canada en<br> in het zuiden door Mexico. De westkust wordt gevormd door de<br> Grote of Stille Oceaan terwijl de Atlantische Oceaan ten oosten en de<br> Golf van Mexico ten zuiden van het land liggen.></p>
 
+
+<strong><h3>Extra links</h3></strong> 
 </body>
 </html>
