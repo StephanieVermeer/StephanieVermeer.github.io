@@ -22,14 +22,14 @@ font-family:cursive;}
 #FT {       width: 120px;
             margin-right: 10px;
             margin-bottom: 10px;
-            border: 6px white;
+            border: 6px dashed white;
 }
 #VH {       width: 120px;
             margin-right: 10px;
             margin-bottom: 10px;
             border: 6px white;
 }
-DP {        width: 120px;
+DP {        width: 80px;
             margin-right: 10px;
             margin-bottom: 10px;
             border: 6px white;
