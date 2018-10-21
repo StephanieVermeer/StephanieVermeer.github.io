@@ -9,7 +9,15 @@ body }
 font-family:cursive;}
 #Amerika { font-family:Italic; }
 #VS { background-color: rgb(200,55,0);}
-#STAD { background-color: rgb(210,10,0); }
+#STAD {     background: rgb(230, 230, 230);
+            width: 70%;
+            height: 180px;
+            overflow-y: auto;
+            overflow-x: hidden;
+            margin: 15px 0px 10px 6px;
+            border: 2px dashed rgb(161, 161, 16
+}           
+        
 #FOTO {
             width: 120px;
             margin-right: 10px;
