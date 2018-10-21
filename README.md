@@ -16,26 +16,26 @@ font-family:cursive;}
             overflow-y: auto;
             overflow-x: hidden;
             margin: 15px 0px 10px 6px;
-            border: 2px dashed rgb(161, 161, 16);
+            border: 1px dashed rgb(230,230,230);
           
 }  
 #FT {       width: 120px;
             margin-right: 10px;
             margin-bottom: 10px;
             background-color: white;
-            border: 6px dashed rgb(161,161,16);
+            border: 1px dashed rgb(230,230,230);
 }
 #VH {       width: 120px;
             margin-right: 10px;
             margin-bottom: 10px;
-            background-color: white
-            border: 6px dashed rgb(161,161,16);
+            background-color: white;
+            border: 1px dashed rgb(230,230,230);
 }
 DP {        width: 50px;
             margin-right: 10px;
             margin-bottom: 10px;
-            background-color: white
-            border: 3px dashed rgb(161,161,16);
+            background-color: white;
+            border: 1px dashed rgb(230,230,230);
 }
 
 
