@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta charset="utf-8">
 <title>Mijn Droomreis</title>
 <style>
 body{
