@@ -128,7 +128,7 @@ body, html {
 <strong><h2 id="Informatie">Informatie</h2></strong>
 <p id="VS">De Verenigde Staten, officieel de Verenigde Staten van Amerika, afgekort VS zijn een<br> federatie van 50 staten en het District of Columbia, grotendeels in<br>Noord-Amerika gelegen. De Verenigde Staten zijn met meer dan 325 miljoen<br> inwoners het op twee na grootste land ter wereld in bevolking,<br>na Volksrepubliek China en India. Tevens is het het op twee na<br> grootste land in oppervlakte, na Rusland en Canada.<br>
 De VS wordt in het noorden begrensd door Canada en<br> in het zuiden door Mexico. De westkust wordt gevormd door de<br> Grote of Stille Oceaan terwijl de Atlantische Oceaan ten oosten en de<br> Golf van Mexico ten zuiden van het land liggen.</p>
-<strong><h3 id="BA">Bekende attractie</h3></strong>
+<strong><h3 id="BA">Bekende attracties</h3></strong>
 <li>Grand Canyon</li>
 <img id="FT" src="https://www.taketours.com/images/destination/USA%20Grand%20Canyon%20South%20Rim.jpg">
 <li>Het vrijheidsbeeld</li>
