@@ -22,17 +22,20 @@ font-family:cursive;}
 #FT {       width: 120px;
             margin-right: 10px;
             margin-bottom: 10px;
-            border: 6px dashed white;
+            background-color: white;
+            border: 6px dashed rgb(161,161,16);
 }
 #VH {       width: 120px;
             margin-right: 10px;
             margin-bottom: 10px;
-            border: 6px white;
+            background-color: white
+            border: 6px dashed rgb(161,161,16);
 }
-DP {        width: 80px;
+DP {        width: 50px;
             margin-right: 10px;
             margin-bottom: 10px;
-            border: 6px white;
+            background-color: white
+            border: 3px dashed rgb(161,161,16);
 }
 
 
