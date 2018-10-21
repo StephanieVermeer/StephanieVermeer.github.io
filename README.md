@@ -79,7 +79,7 @@ body, html {
 
 .bg-image {
   /* The image used */
-  background-image: url("zuidamerika-04.jpg");
+  background-image: src="https://www.gezinopreis.nl/wp-content/uploads/2016/04/zuidamerika-04.jpg";
   
   /* Add the blur effect */
   filter: blur(8px);
