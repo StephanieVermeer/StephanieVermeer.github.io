@@ -16,7 +16,7 @@
             margin-bottom: 10px;
             border: 6px ridge red;
 }
-.amerika { color: #3333FF; }
+.amerika { color: #3366ff; }
 .vs { color: white; }
 .button {
   border-radius: 4px;
