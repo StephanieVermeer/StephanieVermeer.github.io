@@ -101,16 +101,16 @@ body, html {
 <img id="FOTO" src= "https://www.bol.com/nl/p/vlag-usa-amerikaanse-vlag-90-x-150/9200000055128768/">
 <h1 id="STAD"><span class= "amerika">Amerika</span> <span class= "vs">VS</span></h1>
 <p>Amerika is de perfecte plaats om eens te bezoeken!</p>
-<li><a href="#Informatie"></a></li>
-<li><a href="#Bekende attracties"></a></li>
-<li><a href="#Extra links"></a></li>
+<li><a href="#Informatie">Informatie</a></li>
+<li><a href="#BA">Bekende attracties</a></li>
+<li><a href="#EL">Extra links</a></li>
 
 
 <strong><h2 id="Informatie">Informatie</h2></strong>
 <p id="VS">De Verenigde Staten, officieel de Verenigde Staten van Amerika, afgekort VS zijn een<br> federatie van 50 staten en het District of Columbia, grotendeels in<br>Noord-Amerika gelegen. De Verenigde Staten zijn met meer dan 325 miljoen<br> inwoners het op twee na grootste land ter wereld in bevolking,<br>na Volksrepubliek China en India. Tevens is het het op twee na<br> grootste land in oppervlakte, na Rusland en Canada.<br>
 De VS wordt in het noorden begrensd door Canada en<br> in het zuiden door Mexico. De westkust wordt gevormd door de<br> Grote of Stille Oceaan terwijl de Atlantische Oceaan ten oosten en de<br> Golf van Mexico ten zuiden van het land liggen.</p>
-<strong><h3 id="Bekende attractie">Bekende attractie</h3></strong>
+<strong><h3 id="BA">Bekende attractie</h3></strong>
 
-<strong><h4 id="Extra links">"Extra links"</h4></strong> 
+<strong><h4 id="EL">"Extra links"</h4></strong> 
 </body>
 </html>
