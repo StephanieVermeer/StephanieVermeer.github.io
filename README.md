@@ -19,19 +19,19 @@ font-family:cursive;}
             border: 2px dashed rgb(230,230,230);
           
 }  
-#FT {       width: 120px;
+#FT {       width: 200px;
             margin-right: 10px;
             margin-bottom: 10px;
             background-color: white;
             border: 2px dashed rgb(230,230,230);
 }
-#VH {       width: 120px;
+#VH {       width: 200px;
             margin-right: 10px;
             margin-bottom: 10px;
             background-color: white;
             border: 2px dashed rgb(230,230,230);
 }
-DP {        width: 50px;
+DP {        width: 200px;
             margin-right: 10px;
             margin-bottom: 10px;
             background-color: white;
@@ -136,7 +136,7 @@ De VS wordt in het noorden begrensd door Canada en<br> in het zuiden door Mexico
 <li>Het vrijheidsbeeld</li>
 <img id="VH" src="https://www.newyork.nl/wp-content/uploads/2013/11/xHet-Vrijheidsbeeld.jpg.pagespeed.ic.rcDPXYNqWr.jpg">
 <li>Disneyland Park</li>
-<img id="DP" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sleeping_Beauty_Castle_Disneyland_Anaheim_2013.jpg/1920px-Sleeping_Beauty_Castle_Disneyland_Anaheim_2013.jpg">
+<img id="DP" src="https://wikitravel.org/en/File:SleepingBeautyCastle50th.JPG">
 <strong><h4 id="EL">Extra links</h4></strong> 
 </body>
 </html>
